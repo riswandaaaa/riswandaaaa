@@ -15,7 +15,7 @@
 
 - 🎓 Currently studying at Politeknik Negeri Jember
 - 💡 Passionate about Web Development
-- 🚀 Learning PHP, Laravel, Flutter, and Python
+- 🚀 Learning PHP, Laravel, Flutter, Dart, and Python
 
 ---
 
