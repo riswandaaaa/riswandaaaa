@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Riswanda Hari Saputra 👋
+# Hi there, I'm Riswanda 👋
 
 ### 💻 Student | Developer | Tech Enthusiast
 
